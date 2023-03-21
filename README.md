@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://giphy.com/stickers/Sentipensantes-computer-technology-laptop-DCfn3stnPswi1VMVN9" width="100"/>
+<img src="https://media.giphy.com/media/DCfn3stnPswi1VMVN9/giphy.gif" width="100"/>
 </div>
              
 
