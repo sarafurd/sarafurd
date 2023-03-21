@@ -1,5 +1,9 @@
-### Hi there 👋
-<img src="https://www.pinterest.com/pin/360921357640139327/">
+<div id="header" align="center">
+<img src="https://giphy.com/gifs/computer-working-all-nighter-BferOKonYOspm28AiB" width="100"/>
+</div>
+             
+
+
 
 <!--
 **sarafurd/sarafurd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
