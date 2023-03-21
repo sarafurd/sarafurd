@@ -1,8 +1,8 @@
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/DCfn3stnPswi1VMVN9/giphy.gif" height="400" width="100"/>
+<img src="https://media.giphy.com/media/DCfn3stnPswi1VMVN9/giphy.gif" height="200" width="100"/>
 </div>
              
-<div id="badges">
+<div id="badges" align="center>
   <a href="https://www.linkedin.com/in/sara-rutherfurd/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
