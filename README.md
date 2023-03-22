@@ -23,7 +23,7 @@
 
 - :zap: In my free time, I work on personal projects and learn web development skills.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sara-rutherfurd/) 
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sara-rutherfurd/) 
                                                                                                 
 ### :hammer_and_wrench: Languages and Tools :
  <div>
