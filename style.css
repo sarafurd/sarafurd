@@ -127,10 +127,14 @@ main p {
 }
 
 main a {
-    display: block;
+    text-align: center;
     padding: 1%;
     color: white;
     transition: 0.8s;
+    border-radius: 5%;
+    border: 1px solid white;
+    padding: 10px 30px;
+    background: black;
 }
 
 main a:hover {
@@ -186,32 +190,36 @@ main a:hover {
 }
 
 .visit-gym a {
-    display: block;
+    display: inline-block;
     text-align: center;
     text-decoration: none;
-    color: #fff;
+    color: white;
     border-radius: 5%;
     padding: 10px 20px;
     transition: 0.8s;
+    border: 1px solid var(--main-darkgrey);
+    background: var(--main-darkgrey);
 }
 
 .visit-gym a:hover {
-    color: black;
+    color: var(--main-darkgrey);
 }
 
 .visit-personal a {
-    display: block;
+    display: inline-block;
     text-align: center;
     text-decoration: none;
-    color: #fff;
+    color: white;
     border-radius: 5%;
     padding: 10px 20px;
-    margin-top: 20px;
+    margin-top: 19px;
     transition: 0.8s;
+    border: 1px solid var(--main-darkgrey);
+    background: var(--main-darkgrey);
 }
 
 .visit-personal a:hover {
-    color: black;
+    color: var(--main-darkgrey);
 }
 
 .volunteer {
@@ -233,12 +241,16 @@ main a:hover {
 }
 
 .volunteer a {
-    color: var(--main-darkgrey);
+    color: white;
+    border: 1px solid var(--main-darkgrey);
+    background: var(--main-darkgrey);
+    border-radius: 5%;
+    padding: 10px 30px;
     transition: 0.8s;
 }
 
 .volunteer a:hover {
-    color: white;
+    color: var(--main-darkgrey);
 }
 
 footer {
