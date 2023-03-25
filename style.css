@@ -107,37 +107,38 @@ nav ul li a:hover::after {
     width: 100%;
 }
 
-main {
-    margin-top: 10%;
-    font-size: 20px;
-    text-align: center;
+.maincontainer {
+    max-width: 600px;
+    margin: 0 auto;
 }
 
-main h1 {
-    font-size: 40px;
-    margin-top: 20px;
+.main-content {
     text-align: center;
+    padding: 50px 0;
+}
+
+.main-content h1 {
+    font-size: 3rem;
     color: white;
 }
 
-main p {
-    text-align: center;
+.main-content p {
+    font-size: 1.5rem;
+    line-height: 1.5;
+    margin-top: 30px;
     color: white;
-    padding: 0 25% 5% 25%;
 }
 
-main a {
-    text-align: center;
-    padding: 1%;
+.main-content a {
     color: white;
-    transition: 0.8s;
-    border-radius: 5%;
-    border: 1px solid white;
-    padding: 10px 30px;
     background: black;
+    border: 1px solid black;
+    border-radius: 5%;
+    padding: 10px 20px;
+    transition: 0.8s;
 }
 
-main a:hover {
+.main-content a:hover {
     color: black;
 }
 
@@ -351,10 +352,38 @@ nav .fas {
         left: 25px;
         cursor: pointer;
     }
-    main p {
-        overflow: hidden;
-        display: -webkit-box;
-        -webkit-box-orient: vertical;
-        -webkit-line-clamp: 4;
+    nav ul li {
+        display: block;
+        text-align: center;
+        margin: 10px 0;
+    }
+    .why p {
+        padding: 2%;
+        text-align: center;
+        padding: 0 10%;
+        margin: 10px;
+    }
+    .visit {
+        flex-wrap: wrap;
+        padding: 20px;
+        text-align: center;
+    }
+    .visit img {
+        height: auto;
+        max-width: 100%;
+    }
+    .visit-gym,
+    .visit-personal {
+        height: auto;
+        margin: 20px 0;
+    }
+    .visit-gym p,
+    .visit-personal p {
+        margin: 10px 0;
+        padding: 10px 0;
+    }
+    .visit-gym a,
+    .visit-personal a {
+        margin-top: 20px;
     }
 }
